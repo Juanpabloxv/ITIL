@@ -1,0 +1,48 @@
+15 proyectos
+
+
+cada 4 meses 8 proyectos
+
+4 pequeños
+3 medianos
+2 grandes
+
+jugador 1  
+jugador 2  
+jugador 3  
+
+proyectos pequeños
+1. Necesita 15 personas para hacer este proyecto, nivel 2 en tecnologia en servidores y nivel 2 en tecnologia en I.A
+2. necesita 15 personas para hacer este proyecto y nivel 2 en flujo 
+3.necesita tener conocimientos en organizacion y personas nivel 2
+
+VALUE STREAMS AND PROCESSES
+
+
+
+
+
+10          ------>      15
+
+16 --------->   15 *
+
+10 
+
+
+
+
+empleados y tecnologia
+socios y flujos
+---------------------------------------------------
+empleados y socios
+tecnologia y flujos
+---------------------------------------------------
+empleados y flujos
+tecnologia y socios
+
+
+
+
+
+
+

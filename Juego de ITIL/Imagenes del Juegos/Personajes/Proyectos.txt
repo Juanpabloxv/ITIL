@@ -2,6 +2,39 @@ Faciles:
 
 DEMI LOVATO: página para activismo en estudios de género / página para citas no discriminatoria
 
+AMY LEE: scrapping web para conciertos de punk locales / pagina web tipo blog para experiencias goticas
+
+Salvador Dalí: museo virtual / página para negociar mis obras NFT
+
+Harry Potter: juego de rol multijugador / pagina web para peliculas de magia
+
+Kim Jong Un: página para elecciones virtuales democráticas / aplicativo para trámites gubernamentales
+
+Moana : aplicativo para registrar actividad volcánica / sitio web de turismo
+
+Bin Laden: red social para creación de grupos con intereses comunes / aplicativo para GPS en desiertos
+
+Ramon Valdez: página para comida mexicana / sitio web con scrapping de vecindades locales
+
+Putin: aplicativo propio para almacenamiento en la nube / mantenimiento de mi red de datos rusa
+
+Indira Gandhi: aplicativo para registro del crecimiento demográfico / sistema de entrenamiento en algoritmia y matemáticas
+
+Toretto: sistema para mercado en línea de vehículos deportivos / hosting web para competencias autorizadas de vehiculos 
+
+Nietzsche: asistente inteligente virtual / enciclopedia offline de libros filosóficos
+
+Serena : página para apuestas deportivas / aplicativo para venta de mi merchandising deportivo
+
+Milla : microcontrolador para dispositivos de hogar / sistema inteligente para dispositivos IoT
+
+MADAM ISABEL: nanotecnología para rejuvenecimiento celular / sistema inteligente de recomendación de vestuario 
+
+
+
+
+
+
 
 
 
@@ -11,6 +44,19 @@ Medianos:
 NOTORIOUS BIG: international tour ticket sales website / crear aplicativo para administrar todo mi merchandising
 
 HAWKING : simulador del universo a escala pequeña en tiempo real / simulacion agujeros negros 3D
+
+RIHANNA: hosting web para almacenar toda mi producción musical / asistente virtual para administrar actividades de todo mi equipo
+
+MARY MANSON: sistema de control para extremidades biónicas / sistema de mejora musical en realidad aumentada
+
+EMMA STONE: estudio para producción de películas en realidad aumentada / sistema satelital para realizar películas espaciales
+
+SCHINDLER: sistema web para ayudar a desplazados a nivel mundial / sistema bancario incorporando blockchain
+
+DONNA: inteligencia artificial para clasificar casos judiciales / almacenamiento inteligente de delitos internacionales
+
+MALALA: sistema de realidad virtual para ceremonias religiosas / aplicación para scrapping masivo de sitios turísticos
+
 
 
 Dificiles:
